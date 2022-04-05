@@ -1,1 +1,1 @@
-Scrip that print Hello, World
+Scrip that displays a confused smiley
